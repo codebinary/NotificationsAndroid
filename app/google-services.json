@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "434106121348",
+    "firebase_url": "https://noticaciones-edda5.firebaseio.com",
+    "project_id": "noticaciones-edda5",
+    "storage_bucket": "noticaciones-edda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434106121348:android:8335bd1f5cff36c5",
+        "android_client_info": {
+          "package_name": "com.ontiveros.james.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434106121348-qe2u0rlrbgis54sa2bfvf8eb13t1haee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEV5E74t1iEx0weFZno_DiZZA91lyTL_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

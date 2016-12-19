@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_logo">CAR INSURANCE</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="action_sign_in_ime">Loguear</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="no_message_text">No hay ningúna notificación todavía</string>
+    <string name="title_activity_notifications">Notificaciones</string>
+</resources>
